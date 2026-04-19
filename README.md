@@ -62,11 +62,6 @@ Lightweight **React** app: enter a prompt, send it to the **OpenAI Chat Completi
 | `npm run preview` | Preview the production build |
 | `npm run lint`    | ESLint                   |
 
-## Submission (assessment)
-
-1. Create a **public GitHub repository** and push this project.
-2. Keep this **README** for reviewers.
-3. **Do not commit** `.env` or real API keys (they are gitignored).
 
 ## Stack
 
